@@ -48,9 +48,6 @@ A simple, user-friendly Python application that allows you to convert multiple i
 
 6. A success message will appear, and your archive will be ready without unnecessary folder structures!
 
-## Screenshots
-
-*(Add screenshots here for a visual guide, e.g., app interface, drag-drop action)*
 
 ## Troubleshooting
 - **ModuleNotFoundError**: Ensure all dependencies are installed correctly. Run `pip install -r requirements.txt` again.

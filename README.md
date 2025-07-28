@@ -1,7 +1,5 @@
 # Free Image Converter
 
-![Image Converter Demo](https://via.placeholder.com/800x400?text=Drag+and+Drop+Images+Here)  
-
 A simple, user-friendly Python application that allows you to convert multiple images to various formats (like WebP, PNG, JPEG) and package them into a ZIP or RAR archive. Supports drag-and-drop functionality for easy use!
 
 ## Features

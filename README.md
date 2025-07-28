@@ -18,7 +18,7 @@ A simple, user-friendly Python application that allows you to convert multiple i
 1. Clone the repository:
    ```bash
    git clone https://github.com/roiander/img-converter.git
-   cd free-image-converter
+   cd image-converter
    ```
 
 2. Install the required dependencies:
